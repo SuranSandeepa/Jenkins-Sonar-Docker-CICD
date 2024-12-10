@@ -168,6 +168,6 @@ chmod 600 ~/.ssh/authorized_keys
 </p>
 
 <p align="center">
-  🎉 Build Triggered Successfully! 🚀 Data added correctly, pipeline completed, and SonarQube passed with flying colors. ✅ Here's the proof! 📸
+  🎉 Build Triggered Successfully! 🚀 Data added correctly, pipeline completed, and SonarQube passed with flying colors.
 </p>
 
